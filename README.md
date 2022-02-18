@@ -12,6 +12,3 @@ Depending on the type of issue they live in these repositories:
 
 This is confusing? Yes. I just can't think of a less confusing way.
 
-@arch-kiosk/test: Look at this 
-
-Yippieh
