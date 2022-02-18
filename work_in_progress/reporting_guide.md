@@ -1,9 +1,9 @@
 # Kiosk Code of Conduct - Reporting Guide
 If you believe someone is violating the code of conduct, we ask that you report it to the administrators of Kiosk for consideration by the conduct working group by emailing the project manager at  
-laurel_bestock@brown.edu. **All reports will be kept confidential**.  In some cases, we may determine that a public statement is a required response. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.  
+laurel_bestock@brown.edu. **All reports will be kept confidential**.  In some cases, we may determine that a public statement is a required response. If that is the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.  
   
   
-Because Kiosk is currently a very small operation, the working group is assembled on an ad hoc basis. It consists of three members of the Kiosk team, and meets with the advisement of the Brown University Ombuds. If the violation being reported includes the project manager, the report of violation should be sent to XXXX.  
+Because Kiosk is currently a very small operation, the working group is assembled on an ad hoc basis. It consists of three members of the Kiosk team, and meets with the advisement of the Brown University Ombuds.
 
 
 If you are unsure whether the incident is a violation, or whether the space where it happened is covered by this Code of Conduct, we encourage you to still report it. We would much rather have a few extra reports where we decide to take no action than miss a report of an actual violation. We do not look negatively on you if we find the incident is not a violation. And knowing about incidents that are not violations, or happen outside our spaces, can also help us to improve the Code of Conduct or the processes surrounding it.  
@@ -37,5 +37,5 @@ Once the working group has a complete account of the events they will make a dec
 *	A permanent or temporary ban from some or all Kiosk spaces.
 *	A request for a public or private apology.  
 	
-Once we've determined our final action, we'll contact the original reporter to let them know what action (if any) we'll be taking. We will take into account feedback from the reporter on the appropriateness of our response, but we don't guarantee we'll act on it.
+Once we have determined our final action, we will contact the original reporter to let them know what action (if any) we will be taking. We will take into account feedback from the reporter on the appropriateness of our response, but we do not guarantee we will act on it.
 
