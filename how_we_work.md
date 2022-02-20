@@ -15,10 +15,10 @@
   - reporting forms
     
 ## software documentation / user's manual
-    - we keep to dokuwiki for documentation for the time being
-    - for the user's manual we will create a new, empty wiki
-    - Lutz' will still do some research on publishing documentation via GitHub Pages, but that mustn't keep us from working on it in the wiki.
-    - documentation for developers will be kept in our main wiki for the time being.
+  - we keep to dokuwiki for documentation for the time being
+  - for the user's manual we will create a new, empty wiki
+  - Lutz' will still do some research on publishing documentation via GitHub Pages, but that mustn't keep us from working on it in the wiki.
+  - documentation for developers will be kept in our main wiki for the time being.
    
 ## tickets / issues
    - we use a single communal repository "arch-kiosk-office" for all software related tickets (including projects). That repo must be public so that issues can have more than one assignee.
