@@ -9,6 +9,3 @@ Depending on the type of issue they live in these repositories:
 
 - The mere project management tasks should be stored in the project-management repos itself.
 - The concrete issues (tasks) should be in the repository within which the actual work will happen.
-
-This is confusing? Yes. I just can't think of a less confusing way.
-
