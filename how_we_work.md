@@ -20,8 +20,9 @@
     - Lutz' will still do some research on publishing documentation via GitHub Pages, but that mustn't keep us from working on it in the wiki.
     - documentation for developers will be kept in our main wiki for the time being.
    
-## tickets
+## tickets / issues
    - we use a single communal repository "arch-kiosk-office" for all software related tickets (including projects). That repo must be public so that issues can have more than one assignee.
+   - Every field-project will have its own project whenever a ticket is somehow specific to a project it should be added to that project. We don't use labels anymore for that purpose. 
    - we'll keep project management a separate repository for issues related only to general management of the project (thinking about grants, finding collaborators, organizing workflows etc.)
    - Lutz is using a seprate repo to keep tasks and files for research
 
@@ -31,23 +32,3 @@
 
 
 
-
-
-# pros / cons 
-## Github
-  + has a workflow
-  + enforces organization (well, rather needs an organization) of files
-  + one tool for all
-  + "GitHub Pages" allow for custom design and appear as a standalone web page (looks more pro for documentation)
-  - workflow needs learning
-  - very abstract for occasional users
-  - GitHub Pages need quite some administration (Jekyll static site generator).
-## wiki
-  + more intuitive
-  + better search results
-  + linking easier
-  + we use it anyhow (or don't we?)
-  + nearly no effort in administration
-  - has its own user management. If people join several wikis they have to be registered in all of them
-  - looks a bit less modern
- 
