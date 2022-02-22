@@ -14,4 +14,4 @@ Depending on their type issues live in these repositories:
 
 ## how we organize our work
 This guide remindes us what tools and files we use especially during planning, customization and documentation:  
-📐 [how we organize our work and which tools and files we use](how_we_work.md)
+📐 [how we organize our work and which tools and files we use](https://github.com/arch-kiosk/.github/how_we_work.md)
