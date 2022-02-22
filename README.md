@@ -13,5 +13,5 @@ Depending on their type issues live in these repositories:
 - The concrete issues (tasks) should be in the repository within which the actual work will happen.
 
 ## how we organize our work
-This guide remindes us what tools and files we use especially during planning, customization and documentation:
+This guide remindes us what tools and files we use especially during planning, customization and documentation:  
 📐 [how we organize our work and which tools and files we use](how_we_work.md)
