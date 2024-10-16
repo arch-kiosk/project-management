@@ -1,10 +1,12 @@
 # project-management
 This repository holds all issues and projects that are project management only. 
+IT IS NOT PUBLIC!
 
 ## what we keep in this repo
 The repository's projects consist either of 
 
 - issues entirely related to project management (setting it up, organizing workflows etc.) or of
+- issues related to internal projects that are not necessary Kiosk related (like Abydos project management, which should in fact not even be part of the kiosk organization, but ... )
 - tracking issues, which are issues that just bundle more concrete issues from other repositories to a major goal of our project. 
 
 Depending on their type issues live in these repositories:
